@@ -16,6 +16,24 @@
 ![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/57ea48a4-16bb-4d74-8912-f9cacff03ec6)
 ![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/afb63169-0b46-46a2-b9eb-f6965c2cf91a)
 ![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/8d10822b-7b51-4d92-b9b7-15c5754976ca)
+# FINAL
+## CodeBuild
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/b16fde0f-a64c-4d80-8933-c1d951bcf49d)
+## CodePipeline
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/75bc1310-a935-4e86-b8b0-ab7161543af9)
+## CodeDeploy
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/e777da0a-71b9-4808-aefe-446e63e34db4)
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/90bfb7ed-45cc-472e-8065-2b902eb3360b)
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/272e6123-a2d0-4ceb-86d8-72b589a94d39)
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/192a26ec-e1e7-4a4e-b9be-2662991f82da)
+![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/63c23386-61d7-4fe4-a529-1a568b250d39)
+
+
+
+
+
+
+
 
 
 
