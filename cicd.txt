@@ -1105,3 +1105,24 @@ rescue Exception => e
   exit(1)
 end
 root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu# docker ps
+CONTAINER ID   IMAGE                                      COMMAND           CREATED          STATUS          PORTS                                       NAMES
+09be2462adc1   harendra1/simple-python-flask-app:latest   "python app.py"   18 minutes ago   Up 18 minutes   0.0.0.0:5000->5000/tcp, :::5000->5000/tcp   wonderful_zhukovsky
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu# docker ps -a
+CONTAINER ID   IMAGE                                      COMMAND           CREATED          STATUS          PORTS                                       NAMES
+09be2462adc1   harendra1/simple-python-flask-app:latest   "python app.py"   19 minutes ago   Up 19 minutes   0.0.0.0:5000->5000/tcp, :::5000->5000/tcp   wonderful_zhukovsky
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu# docker ps
+CONTAINER ID   IMAGE                                      COMMAND           CREATED          STATUS          PORTS                                       NAMES
+09be2462adc1   harendra1/simple-python-flask-app:latest   "python app.py"   19 minutes ago   Up 19 minutes   0.0.0.0:5000->5000/tcp, :::5000->5000/tcp   wonderful_zhukovsky
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu# docker images
+REPOSITORY                          TAG       IMAGE ID       CREATED          SIZE
+harendra1/simple-python-flask-app   latest    fe13bd1a7e9c   50 minutes ago   1.01GB
+root@ip-172-31-10-193:/home/ubuntu#
+root@ip-172-31-10-193:/home/ubuntu#
+
