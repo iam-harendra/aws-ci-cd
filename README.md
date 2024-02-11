@@ -27,6 +27,9 @@
 ![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/272e6123-a2d0-4ceb-86d8-72b589a94d39)
 ![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/192a26ec-e1e7-4a4e-b9be-2662991f82da)
 ![image](https://github.com/iam-harendra/aws-ci-cd/assets/96298529/63c23386-61d7-4fe4-a529-1a568b250d39)
+## docker hub
+![Uploading image.png…]()
+
 
 
 
